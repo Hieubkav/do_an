@@ -1,0 +1,320 @@
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Warning:  require(/home/pokestor/public_html/TCG/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pokestor/public_html/TCG/index.php on line 34
+[03-Mar-2024 09:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pokestor/public_html/TCG/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pokestor/public_html/TCG/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pokestor/public_html/TCG/index.php on line 34
+[10-Mar-2024 21:00:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Declaration of Monolog\Logger::emergency(Stringable|string $message, array $context = []): void must be compatible with PsrExt\Log\LoggerInterface::emergency($message, array $context = []) in /home/pokestor/public_html/vision/vendor/monolog/monolog/src/Monolog/Logger.php on line 669
+[11-Mar-2024 15:07:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Declaration of Monolog\Logger::emergency(Stringable|string $message, array $context = []): void must be compatible with PsrExt\Log\LoggerInterface::emergency($message, array $context = []) in /home/pokestor/public_html/vision/vendor/monolog/monolog/src/Monolog/Logger.php on line 669
+[11-Mar-2024 15:08:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Declaration of Monolog\Logger::emergency(Stringable|string $message, array $context = []): void must be compatible with PsrExt\Log\LoggerInterface::emergency($message, array $context = []) in /home/pokestor/public_html/vision/vendor/monolog/monolog/src/Monolog/Logger.php on line 669
+[11-Mar-2024 15:08:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Declaration of Monolog\Logger::emergency(Stringable|string $message, array $context = []): void must be compatible with PsrExt\Log\LoggerInterface::emergency($message, array $context = []) in /home/pokestor/public_html/vision/vendor/monolog/monolog/src/Monolog/Logger.php on line 669
+[11-Mar-2024 15:08:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Declaration of Monolog\Logger::emergency(Stringable|string $message, array $context = []): void must be compatible with PsrExt\Log\LoggerInterface::emergency($message, array $context = []) in /home/pokestor/public_html/vision/vendor/monolog/monolog/src/Monolog/Logger.php on line 669
